@@ -44,13 +44,13 @@ The approach is designed to work across many common layouts. Its reliability dep
 
 The screenshot below illustrates the questionnaire layout, including question labels and answer fields.
 
-![Questionnaire example](images/questionnaire_layout.png)
+![Questionnaire example](questionnaire_layout.png)
 
 ## Extracted Output
 
 The screenshot below shows the corresponding extracted records.
 
-![Extraction result](images/scraper_output.png)
+![Extraction result](scraper_output.png)
 
 Each extracted record contains:
 

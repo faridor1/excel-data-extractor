@@ -1,9 +1,5 @@
-# excel-data-extractor
+# Excel Data Extractor
 Tool for extracting Excel data. Especially useful for extracting questions and answers from unstructured Excel questionnaires. (R tool -- easy to translate to Python) 
-
-# Excel Questionnaire Extractor
-
-An R script that converts semi-structured Excel questionnaires into a consolidated dataset containing questions, answers, answer options, and source cell addresses.
 
 ## Motivation
 
